@@ -3,7 +3,7 @@ package com.javaex.practice02;
 public class P01 {
     public static void main(String[] args) {
 
-        int[] data = {1,3,5,8,9,11,15,19,18,20,30,33,31};
+        int[] data = {1, 3, 5, 8, 9, 11, 15, 19, 18, 20, 30, 33, 31};
         int count = 0;
         int sum = 0;
 
